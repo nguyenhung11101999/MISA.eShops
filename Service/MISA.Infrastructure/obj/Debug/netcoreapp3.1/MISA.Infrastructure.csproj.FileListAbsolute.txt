@@ -1,0 +1,48 @@
+E:\MISA.eShop\MISA.eShop\MISA.Infrastructure\bin\Debug\netcoreapp3.1\MISA.ApplicationCore.dll
+E:\MISA.eShop\MISA.eShop\MISA.Infrastructure\obj\Debug\netcoreapp3.1\MISA.Infrastructure.csprojAssemblyReference.cache
+E:\MISA.eShop\MISA.eShop\MISA.Infrastructure\obj\Debug\netcoreapp3.1\MISA.Infrastructure.AssemblyInfoInputs.cache
+E:\MISA.eShop\MISA.eShop\MISA.Infrastructure\obj\Debug\netcoreapp3.1\MISA.Infrastructure.AssemblyInfo.cs
+E:\MISA.eShop\MISA.eShop\MISA.Infrastructure\bin\Debug\netcoreapp3.1\MISA.Infrastructure.deps.json
+E:\MISA.eShop\MISA.eShop\MISA.Infrastructure\bin\Debug\netcoreapp3.1\MISA.Infrastructure.dll
+E:\MISA.eShop\MISA.eShop\MISA.Infrastructure\bin\Debug\netcoreapp3.1\MISA.Infrastructure.pdb
+E:\MISA.eShop\MISA.eShop\MISA.Infrastructure\bin\Debug\netcoreapp3.1\MISA.ApplicationCore.pdb
+E:\MISA.eShop\MISA.eShop\MISA.Infrastructure\obj\Debug\netcoreapp3.1\MISA.Infrastructure.csproj.CoreCompileInputs.cache
+E:\MISA.eShop\MISA.eShop\MISA.Infrastructure\obj\Debug\netcoreapp3.1\MISA.Infrastructure.csproj.CopyComplete
+E:\MISA.eShop\MISA.eShop\MISA.Infrastructure\obj\Debug\netcoreapp3.1\MISA.Infrastructure.dll
+E:\MISA.eShop\MISA.eShop\MISA.Infrastructure\obj\Debug\netcoreapp3.1\MISA.Infrastructure.pdb
+F:\nmhung\MISAA\MISA.eShop\MISA.Infrastructure\bin\Debug\netcoreapp3.1\MISA.Infrastructure.deps.json
+F:\nmhung\MISAA\MISA.eShop\MISA.Infrastructure\bin\Debug\netcoreapp3.1\MISA.Infrastructure.dll
+F:\nmhung\MISAA\MISA.eShop\MISA.Infrastructure\bin\Debug\netcoreapp3.1\MISA.Infrastructure.pdb
+F:\nmhung\MISAA\MISA.eShop\MISA.Infrastructure\bin\Debug\netcoreapp3.1\MISA.ApplicationCore.dll
+F:\nmhung\MISAA\MISA.eShop\MISA.Infrastructure\bin\Debug\netcoreapp3.1\MISA.ApplicationCore.pdb
+F:\nmhung\MISAA\MISA.eShop\MISA.Infrastructure\obj\Debug\netcoreapp3.1\MISA.Infrastructure.csprojAssemblyReference.cache
+F:\nmhung\MISAA\MISA.eShop\MISA.Infrastructure\obj\Debug\netcoreapp3.1\MISA.Infrastructure.AssemblyInfoInputs.cache
+F:\nmhung\MISAA\MISA.eShop\MISA.Infrastructure\obj\Debug\netcoreapp3.1\MISA.Infrastructure.AssemblyInfo.cs
+F:\nmhung\MISAA\MISA.eShop\MISA.Infrastructure\obj\Debug\netcoreapp3.1\MISA.Infrastructure.csproj.CoreCompileInputs.cache
+F:\nmhung\MISAA\MISA.eShop\MISA.Infrastructure\obj\Debug\netcoreapp3.1\MISA.Infrastructure.csproj.CopyComplete
+F:\nmhung\MISAA\MISA.eShop\MISA.Infrastructure\obj\Debug\netcoreapp3.1\MISA.Infrastructure.dll
+F:\nmhung\MISAA\MISA.eShop\MISA.Infrastructure\obj\Debug\netcoreapp3.1\MISA.Infrastructure.pdb
+F:\nmhung\New folder (4)\MISA.eShop\MISA.Infrastructure\bin\Debug\netcoreapp3.1\MISA.Infrastructure.deps.json
+F:\nmhung\New folder (4)\MISA.eShop\MISA.Infrastructure\bin\Debug\netcoreapp3.1\MISA.Infrastructure.dll
+F:\nmhung\New folder (4)\MISA.eShop\MISA.Infrastructure\bin\Debug\netcoreapp3.1\MISA.Infrastructure.pdb
+F:\nmhung\New folder (4)\MISA.eShop\MISA.Infrastructure\bin\Debug\netcoreapp3.1\MISA.ApplicationCore.dll
+F:\nmhung\New folder (4)\MISA.eShop\MISA.Infrastructure\bin\Debug\netcoreapp3.1\MISA.ApplicationCore.pdb
+F:\nmhung\New folder (4)\MISA.eShop\MISA.Infrastructure\obj\Debug\netcoreapp3.1\MISA.Infrastructure.csprojAssemblyReference.cache
+F:\nmhung\New folder (4)\MISA.eShop\MISA.Infrastructure\obj\Debug\netcoreapp3.1\MISA.Infrastructure.AssemblyInfoInputs.cache
+F:\nmhung\New folder (4)\MISA.eShop\MISA.Infrastructure\obj\Debug\netcoreapp3.1\MISA.Infrastructure.AssemblyInfo.cs
+F:\nmhung\New folder (4)\MISA.eShop\MISA.Infrastructure\obj\Debug\netcoreapp3.1\MISA.Infrastructure.csproj.CoreCompileInputs.cache
+F:\nmhung\New folder (4)\MISA.eShop\MISA.Infrastructure\obj\Debug\netcoreapp3.1\MISA.Infrastructure.csproj.CopyComplete
+F:\nmhung\New folder (4)\MISA.eShop\MISA.Infrastructure\obj\Debug\netcoreapp3.1\MISA.Infrastructure.dll
+F:\nmhung\New folder (4)\MISA.eShop\MISA.Infrastructure\obj\Debug\netcoreapp3.1\MISA.Infrastructure.pdb
+E:\MISA.eShop\25-3\MISA.eShop\MISA.Infrastructure\bin\Debug\netcoreapp3.1\MISA.Infrastructure.deps.json
+E:\MISA.eShop\25-3\MISA.eShop\MISA.Infrastructure\bin\Debug\netcoreapp3.1\MISA.Infrastructure.dll
+E:\MISA.eShop\25-3\MISA.eShop\MISA.Infrastructure\bin\Debug\netcoreapp3.1\MISA.Infrastructure.pdb
+E:\MISA.eShop\25-3\MISA.eShop\MISA.Infrastructure\bin\Debug\netcoreapp3.1\MISA.ApplicationCore.dll
+E:\MISA.eShop\25-3\MISA.eShop\MISA.Infrastructure\bin\Debug\netcoreapp3.1\MISA.ApplicationCore.pdb
+E:\MISA.eShop\25-3\MISA.eShop\MISA.Infrastructure\obj\Debug\netcoreapp3.1\MISA.Infrastructure.csprojAssemblyReference.cache
+E:\MISA.eShop\25-3\MISA.eShop\MISA.Infrastructure\obj\Debug\netcoreapp3.1\MISA.Infrastructure.AssemblyInfoInputs.cache
+E:\MISA.eShop\25-3\MISA.eShop\MISA.Infrastructure\obj\Debug\netcoreapp3.1\MISA.Infrastructure.AssemblyInfo.cs
+E:\MISA.eShop\25-3\MISA.eShop\MISA.Infrastructure\obj\Debug\netcoreapp3.1\MISA.Infrastructure.csproj.CoreCompileInputs.cache
+E:\MISA.eShop\25-3\MISA.eShop\MISA.Infrastructure\obj\Debug\netcoreapp3.1\MISA.Infrastructure.csproj.CopyComplete
+E:\MISA.eShop\25-3\MISA.eShop\MISA.Infrastructure\obj\Debug\netcoreapp3.1\MISA.Infrastructure.dll
+E:\MISA.eShop\25-3\MISA.eShop\MISA.Infrastructure\obj\Debug\netcoreapp3.1\MISA.Infrastructure.pdb

@@ -1,0 +1,140 @@
+E:\MISA.eShop\MISA.eShop\MISA.eShop.Web\bin\Debug\net5.0\appsettings.Development.json
+E:\MISA.eShop\MISA.eShop\MISA.eShop.Web\bin\Debug\net5.0\appsettings.json
+E:\MISA.eShop\MISA.eShop\MISA.eShop.Web\bin\Debug\net5.0\MISA.eShop.Web.exe
+E:\MISA.eShop\MISA.eShop\MISA.eShop.Web\bin\Debug\net5.0\MISA.eShop.Web.deps.json
+E:\MISA.eShop\MISA.eShop\MISA.eShop.Web\bin\Debug\net5.0\MISA.eShop.Web.runtimeconfig.json
+E:\MISA.eShop\MISA.eShop\MISA.eShop.Web\bin\Debug\net5.0\MISA.eShop.Web.runtimeconfig.dev.json
+E:\MISA.eShop\MISA.eShop\MISA.eShop.Web\bin\Debug\net5.0\MISA.eShop.Web.dll
+E:\MISA.eShop\MISA.eShop\MISA.eShop.Web\bin\Debug\net5.0\ref\MISA.eShop.Web.dll
+E:\MISA.eShop\MISA.eShop\MISA.eShop.Web\bin\Debug\net5.0\MISA.eShop.Web.pdb
+E:\MISA.eShop\MISA.eShop\MISA.eShop.Web\bin\Debug\net5.0\Dapper.dll
+E:\MISA.eShop\MISA.eShop\MISA.eShop.Web\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\MISA.eShop\MISA.eShop\MISA.eShop.Web\bin\Debug\net5.0\MySqlConnector.dll
+E:\MISA.eShop\MISA.eShop\MISA.eShop.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\MISA.eShop\MISA.eShop\MISA.eShop.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\MISA.eShop\MISA.eShop\MISA.eShop.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\MISA.eShop\MISA.eShop\MISA.eShop.Web\bin\Debug\net5.0\MISA.ApplicationCore.dll
+E:\MISA.eShop\MISA.eShop\MISA.eShop.Web\bin\Debug\net5.0\MISA.Infrastructure.dll
+E:\MISA.eShop\MISA.eShop\MISA.eShop.Web\bin\Debug\net5.0\MISA.ApplicationCore.pdb
+E:\MISA.eShop\MISA.eShop\MISA.eShop.Web\bin\Debug\net5.0\MISA.Infrastructure.pdb
+E:\MISA.eShop\MISA.eShop\MISA.eShop.Web\obj\Debug\net5.0\MISA.eShop.Web.csprojAssemblyReference.cache
+E:\MISA.eShop\MISA.eShop\MISA.eShop.Web\obj\Debug\net5.0\MISA.eShop.Web.GeneratedMSBuildEditorConfig.editorconfig
+E:\MISA.eShop\MISA.eShop\MISA.eShop.Web\obj\Debug\net5.0\MISA.eShop.Web.AssemblyInfoInputs.cache
+E:\MISA.eShop\MISA.eShop\MISA.eShop.Web\obj\Debug\net5.0\MISA.eShop.Web.AssemblyInfo.cs
+E:\MISA.eShop\MISA.eShop\MISA.eShop.Web\obj\Debug\net5.0\MISA.eShop.Web.csproj.CoreCompileInputs.cache
+E:\MISA.eShop\MISA.eShop\MISA.eShop.Web\obj\Debug\net5.0\MISA.eShop.Web.MvcApplicationPartsAssemblyInfo.cs
+E:\MISA.eShop\MISA.eShop\MISA.eShop.Web\obj\Debug\net5.0\MISA.eShop.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\MISA.eShop\MISA.eShop\MISA.eShop.Web\obj\Debug\net5.0\staticwebassets\MISA.eShop.Web.StaticWebAssets.Manifest.cache
+E:\MISA.eShop\MISA.eShop\MISA.eShop.Web\obj\Debug\net5.0\staticwebassets\MISA.eShop.Web.StaticWebAssets.xml
+E:\MISA.eShop\MISA.eShop\MISA.eShop.Web\obj\Debug\net5.0\scopedcss\bundle\MISA.eShop.Web.styles.css
+E:\MISA.eShop\MISA.eShop\MISA.eShop.Web\obj\Debug\net5.0\MISA.eShop.Web.RazorTargetAssemblyInfo.cache
+E:\MISA.eShop\MISA.eShop\MISA.eShop.Web\obj\Debug\net5.0\MISA.eShop.Web.csproj.CopyComplete
+E:\MISA.eShop\MISA.eShop\MISA.eShop.Web\obj\Debug\net5.0\MISA.eShop.Web.dll
+E:\MISA.eShop\MISA.eShop\MISA.eShop.Web\obj\Debug\net5.0\ref\MISA.eShop.Web.dll
+E:\MISA.eShop\MISA.eShop\MISA.eShop.Web\obj\Debug\net5.0\MISA.eShop.Web.pdb
+E:\MISA.eShop\MISA.eShop\MISA.eShop.Web\obj\Debug\net5.0\MISA.eShop.Web.genruntimeconfig.cache
+F:\nmhung\MISAA\MISA.eShop\MISA.eShop.Web\bin\Debug\net5.0\appsettings.Development.json
+F:\nmhung\MISAA\MISA.eShop\MISA.eShop.Web\bin\Debug\net5.0\appsettings.json
+F:\nmhung\MISAA\MISA.eShop\MISA.eShop.Web\bin\Debug\net5.0\MISA.eShop.Web.exe
+F:\nmhung\MISAA\MISA.eShop\MISA.eShop.Web\bin\Debug\net5.0\MISA.eShop.Web.deps.json
+F:\nmhung\MISAA\MISA.eShop\MISA.eShop.Web\bin\Debug\net5.0\MISA.eShop.Web.runtimeconfig.json
+F:\nmhung\MISAA\MISA.eShop\MISA.eShop.Web\bin\Debug\net5.0\MISA.eShop.Web.runtimeconfig.dev.json
+F:\nmhung\MISAA\MISA.eShop\MISA.eShop.Web\bin\Debug\net5.0\MISA.eShop.Web.dll
+F:\nmhung\MISAA\MISA.eShop\MISA.eShop.Web\bin\Debug\net5.0\ref\MISA.eShop.Web.dll
+F:\nmhung\MISAA\MISA.eShop\MISA.eShop.Web\bin\Debug\net5.0\MISA.eShop.Web.pdb
+F:\nmhung\MISAA\MISA.eShop\MISA.eShop.Web\bin\Debug\net5.0\Dapper.dll
+F:\nmhung\MISAA\MISA.eShop\MISA.eShop.Web\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\nmhung\MISAA\MISA.eShop\MISA.eShop.Web\bin\Debug\net5.0\MySqlConnector.dll
+F:\nmhung\MISAA\MISA.eShop\MISA.eShop.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\nmhung\MISAA\MISA.eShop\MISA.eShop.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\nmhung\MISAA\MISA.eShop\MISA.eShop.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\nmhung\MISAA\MISA.eShop\MISA.eShop.Web\bin\Debug\net5.0\MISA.ApplicationCore.dll
+F:\nmhung\MISAA\MISA.eShop\MISA.eShop.Web\bin\Debug\net5.0\MISA.Infrastructure.dll
+F:\nmhung\MISAA\MISA.eShop\MISA.eShop.Web\bin\Debug\net5.0\MISA.ApplicationCore.pdb
+F:\nmhung\MISAA\MISA.eShop\MISA.eShop.Web\bin\Debug\net5.0\MISA.Infrastructure.pdb
+F:\nmhung\MISAA\MISA.eShop\MISA.eShop.Web\obj\Debug\net5.0\MISA.eShop.Web.csprojAssemblyReference.cache
+F:\nmhung\MISAA\MISA.eShop\MISA.eShop.Web\obj\Debug\net5.0\MISA.eShop.Web.GeneratedMSBuildEditorConfig.editorconfig
+F:\nmhung\MISAA\MISA.eShop\MISA.eShop.Web\obj\Debug\net5.0\MISA.eShop.Web.AssemblyInfoInputs.cache
+F:\nmhung\MISAA\MISA.eShop\MISA.eShop.Web\obj\Debug\net5.0\MISA.eShop.Web.AssemblyInfo.cs
+F:\nmhung\MISAA\MISA.eShop\MISA.eShop.Web\obj\Debug\net5.0\MISA.eShop.Web.csproj.CoreCompileInputs.cache
+F:\nmhung\MISAA\MISA.eShop\MISA.eShop.Web\obj\Debug\net5.0\MISA.eShop.Web.MvcApplicationPartsAssemblyInfo.cs
+F:\nmhung\MISAA\MISA.eShop\MISA.eShop.Web\obj\Debug\net5.0\MISA.eShop.Web.MvcApplicationPartsAssemblyInfo.cache
+F:\nmhung\MISAA\MISA.eShop\MISA.eShop.Web\obj\Debug\net5.0\staticwebassets\MISA.eShop.Web.StaticWebAssets.Manifest.cache
+F:\nmhung\MISAA\MISA.eShop\MISA.eShop.Web\obj\Debug\net5.0\staticwebassets\MISA.eShop.Web.StaticWebAssets.xml
+F:\nmhung\MISAA\MISA.eShop\MISA.eShop.Web\obj\Debug\net5.0\scopedcss\bundle\MISA.eShop.Web.styles.css
+F:\nmhung\MISAA\MISA.eShop\MISA.eShop.Web\obj\Debug\net5.0\MISA.eShop.Web.RazorTargetAssemblyInfo.cache
+F:\nmhung\MISAA\MISA.eShop\MISA.eShop.Web\obj\Debug\net5.0\MISA.eShop.Web.csproj.CopyComplete
+F:\nmhung\MISAA\MISA.eShop\MISA.eShop.Web\obj\Debug\net5.0\MISA.eShop.Web.dll
+F:\nmhung\MISAA\MISA.eShop\MISA.eShop.Web\obj\Debug\net5.0\ref\MISA.eShop.Web.dll
+F:\nmhung\MISAA\MISA.eShop\MISA.eShop.Web\obj\Debug\net5.0\MISA.eShop.Web.pdb
+F:\nmhung\MISAA\MISA.eShop\MISA.eShop.Web\obj\Debug\net5.0\MISA.eShop.Web.genruntimeconfig.cache
+F:\nmhung\New folder (4)\MISA.eShop\MISA.eShop.Web\bin\Debug\net5.0\appsettings.Development.json
+F:\nmhung\New folder (4)\MISA.eShop\MISA.eShop.Web\bin\Debug\net5.0\appsettings.json
+F:\nmhung\New folder (4)\MISA.eShop\MISA.eShop.Web\bin\Debug\net5.0\MISA.eShop.Web.exe
+F:\nmhung\New folder (4)\MISA.eShop\MISA.eShop.Web\bin\Debug\net5.0\MISA.eShop.Web.deps.json
+F:\nmhung\New folder (4)\MISA.eShop\MISA.eShop.Web\bin\Debug\net5.0\MISA.eShop.Web.runtimeconfig.json
+F:\nmhung\New folder (4)\MISA.eShop\MISA.eShop.Web\bin\Debug\net5.0\MISA.eShop.Web.runtimeconfig.dev.json
+F:\nmhung\New folder (4)\MISA.eShop\MISA.eShop.Web\bin\Debug\net5.0\MISA.eShop.Web.dll
+F:\nmhung\New folder (4)\MISA.eShop\MISA.eShop.Web\bin\Debug\net5.0\ref\MISA.eShop.Web.dll
+F:\nmhung\New folder (4)\MISA.eShop\MISA.eShop.Web\bin\Debug\net5.0\MISA.eShop.Web.pdb
+F:\nmhung\New folder (4)\MISA.eShop\MISA.eShop.Web\bin\Debug\net5.0\Dapper.dll
+F:\nmhung\New folder (4)\MISA.eShop\MISA.eShop.Web\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\nmhung\New folder (4)\MISA.eShop\MISA.eShop.Web\bin\Debug\net5.0\MySqlConnector.dll
+F:\nmhung\New folder (4)\MISA.eShop\MISA.eShop.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\nmhung\New folder (4)\MISA.eShop\MISA.eShop.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\nmhung\New folder (4)\MISA.eShop\MISA.eShop.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\nmhung\New folder (4)\MISA.eShop\MISA.eShop.Web\bin\Debug\net5.0\MISA.ApplicationCore.dll
+F:\nmhung\New folder (4)\MISA.eShop\MISA.eShop.Web\bin\Debug\net5.0\MISA.Infrastructure.dll
+F:\nmhung\New folder (4)\MISA.eShop\MISA.eShop.Web\bin\Debug\net5.0\MISA.ApplicationCore.pdb
+F:\nmhung\New folder (4)\MISA.eShop\MISA.eShop.Web\bin\Debug\net5.0\MISA.Infrastructure.pdb
+F:\nmhung\New folder (4)\MISA.eShop\MISA.eShop.Web\obj\Debug\net5.0\MISA.eShop.Web.csprojAssemblyReference.cache
+F:\nmhung\New folder (4)\MISA.eShop\MISA.eShop.Web\obj\Debug\net5.0\MISA.eShop.Web.GeneratedMSBuildEditorConfig.editorconfig
+F:\nmhung\New folder (4)\MISA.eShop\MISA.eShop.Web\obj\Debug\net5.0\MISA.eShop.Web.AssemblyInfoInputs.cache
+F:\nmhung\New folder (4)\MISA.eShop\MISA.eShop.Web\obj\Debug\net5.0\MISA.eShop.Web.AssemblyInfo.cs
+F:\nmhung\New folder (4)\MISA.eShop\MISA.eShop.Web\obj\Debug\net5.0\MISA.eShop.Web.csproj.CoreCompileInputs.cache
+F:\nmhung\New folder (4)\MISA.eShop\MISA.eShop.Web\obj\Debug\net5.0\MISA.eShop.Web.MvcApplicationPartsAssemblyInfo.cs
+F:\nmhung\New folder (4)\MISA.eShop\MISA.eShop.Web\obj\Debug\net5.0\MISA.eShop.Web.MvcApplicationPartsAssemblyInfo.cache
+F:\nmhung\New folder (4)\MISA.eShop\MISA.eShop.Web\obj\Debug\net5.0\staticwebassets\MISA.eShop.Web.StaticWebAssets.Manifest.cache
+F:\nmhung\New folder (4)\MISA.eShop\MISA.eShop.Web\obj\Debug\net5.0\staticwebassets\MISA.eShop.Web.StaticWebAssets.xml
+F:\nmhung\New folder (4)\MISA.eShop\MISA.eShop.Web\obj\Debug\net5.0\scopedcss\bundle\MISA.eShop.Web.styles.css
+F:\nmhung\New folder (4)\MISA.eShop\MISA.eShop.Web\obj\Debug\net5.0\MISA.eShop.Web.RazorTargetAssemblyInfo.cache
+F:\nmhung\New folder (4)\MISA.eShop\MISA.eShop.Web\obj\Debug\net5.0\MISA.eShop.Web.csproj.CopyComplete
+F:\nmhung\New folder (4)\MISA.eShop\MISA.eShop.Web\obj\Debug\net5.0\MISA.eShop.Web.dll
+F:\nmhung\New folder (4)\MISA.eShop\MISA.eShop.Web\obj\Debug\net5.0\ref\MISA.eShop.Web.dll
+F:\nmhung\New folder (4)\MISA.eShop\MISA.eShop.Web\obj\Debug\net5.0\MISA.eShop.Web.pdb
+F:\nmhung\New folder (4)\MISA.eShop\MISA.eShop.Web\obj\Debug\net5.0\MISA.eShop.Web.genruntimeconfig.cache
+E:\MISA.eShop\25-3\MISA.eShop\MISA.eShop.Web\bin\Debug\net5.0\appsettings.Development.json
+E:\MISA.eShop\25-3\MISA.eShop\MISA.eShop.Web\bin\Debug\net5.0\appsettings.json
+E:\MISA.eShop\25-3\MISA.eShop\MISA.eShop.Web\bin\Debug\net5.0\MISA.eShop.Web.exe
+E:\MISA.eShop\25-3\MISA.eShop\MISA.eShop.Web\bin\Debug\net5.0\MISA.eShop.Web.deps.json
+E:\MISA.eShop\25-3\MISA.eShop\MISA.eShop.Web\bin\Debug\net5.0\MISA.eShop.Web.runtimeconfig.json
+E:\MISA.eShop\25-3\MISA.eShop\MISA.eShop.Web\bin\Debug\net5.0\MISA.eShop.Web.runtimeconfig.dev.json
+E:\MISA.eShop\25-3\MISA.eShop\MISA.eShop.Web\bin\Debug\net5.0\MISA.eShop.Web.dll
+E:\MISA.eShop\25-3\MISA.eShop\MISA.eShop.Web\bin\Debug\net5.0\ref\MISA.eShop.Web.dll
+E:\MISA.eShop\25-3\MISA.eShop\MISA.eShop.Web\bin\Debug\net5.0\MISA.eShop.Web.pdb
+E:\MISA.eShop\25-3\MISA.eShop\MISA.eShop.Web\bin\Debug\net5.0\Dapper.dll
+E:\MISA.eShop\25-3\MISA.eShop\MISA.eShop.Web\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\MISA.eShop\25-3\MISA.eShop\MISA.eShop.Web\bin\Debug\net5.0\MySqlConnector.dll
+E:\MISA.eShop\25-3\MISA.eShop\MISA.eShop.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\MISA.eShop\25-3\MISA.eShop\MISA.eShop.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\MISA.eShop\25-3\MISA.eShop\MISA.eShop.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\MISA.eShop\25-3\MISA.eShop\MISA.eShop.Web\bin\Debug\net5.0\MISA.ApplicationCore.dll
+E:\MISA.eShop\25-3\MISA.eShop\MISA.eShop.Web\bin\Debug\net5.0\MISA.Infrastructure.dll
+E:\MISA.eShop\25-3\MISA.eShop\MISA.eShop.Web\bin\Debug\net5.0\MISA.ApplicationCore.pdb
+E:\MISA.eShop\25-3\MISA.eShop\MISA.eShop.Web\bin\Debug\net5.0\MISA.Infrastructure.pdb
+E:\MISA.eShop\25-3\MISA.eShop\MISA.eShop.Web\obj\Debug\net5.0\MISA.eShop.Web.csprojAssemblyReference.cache
+E:\MISA.eShop\25-3\MISA.eShop\MISA.eShop.Web\obj\Debug\net5.0\MISA.eShop.Web.GeneratedMSBuildEditorConfig.editorconfig
+E:\MISA.eShop\25-3\MISA.eShop\MISA.eShop.Web\obj\Debug\net5.0\MISA.eShop.Web.AssemblyInfoInputs.cache
+E:\MISA.eShop\25-3\MISA.eShop\MISA.eShop.Web\obj\Debug\net5.0\MISA.eShop.Web.AssemblyInfo.cs
+E:\MISA.eShop\25-3\MISA.eShop\MISA.eShop.Web\obj\Debug\net5.0\MISA.eShop.Web.csproj.CoreCompileInputs.cache
+E:\MISA.eShop\25-3\MISA.eShop\MISA.eShop.Web\obj\Debug\net5.0\MISA.eShop.Web.MvcApplicationPartsAssemblyInfo.cs
+E:\MISA.eShop\25-3\MISA.eShop\MISA.eShop.Web\obj\Debug\net5.0\MISA.eShop.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\MISA.eShop\25-3\MISA.eShop\MISA.eShop.Web\obj\Debug\net5.0\staticwebassets\MISA.eShop.Web.StaticWebAssets.Manifest.cache
+E:\MISA.eShop\25-3\MISA.eShop\MISA.eShop.Web\obj\Debug\net5.0\staticwebassets\MISA.eShop.Web.StaticWebAssets.xml
+E:\MISA.eShop\25-3\MISA.eShop\MISA.eShop.Web\obj\Debug\net5.0\scopedcss\bundle\MISA.eShop.Web.styles.css
+E:\MISA.eShop\25-3\MISA.eShop\MISA.eShop.Web\obj\Debug\net5.0\MISA.eShop.Web.RazorTargetAssemblyInfo.cache
+E:\MISA.eShop\25-3\MISA.eShop\MISA.eShop.Web\obj\Debug\net5.0\MISA.eShop.Web.csproj.CopyComplete
+E:\MISA.eShop\25-3\MISA.eShop\MISA.eShop.Web\obj\Debug\net5.0\MISA.eShop.Web.dll
+E:\MISA.eShop\25-3\MISA.eShop\MISA.eShop.Web\obj\Debug\net5.0\ref\MISA.eShop.Web.dll
+E:\MISA.eShop\25-3\MISA.eShop\MISA.eShop.Web\obj\Debug\net5.0\MISA.eShop.Web.pdb
+E:\MISA.eShop\25-3\MISA.eShop\MISA.eShop.Web\obj\Debug\net5.0\MISA.eShop.Web.genruntimeconfig.cache
